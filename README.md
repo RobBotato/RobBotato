@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Social Contact</h2>
+<h2 align="left">Social Contacts</h2>
 
 ###
 
